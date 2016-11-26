@@ -1,6 +1,6 @@
 {
   "name": "strider-ruby",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Ruby support for Strider Continuous Deployment",
   "scripts": {
     "test": "jshint && mocha -R tap"
